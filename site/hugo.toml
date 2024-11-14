@@ -3,6 +3,8 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Mr. Shawn"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+theme = ["PaperMod"]
 
 [params]
 images = ["img/og-image.jpg"]
+
